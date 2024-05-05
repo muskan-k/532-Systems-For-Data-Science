@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+argparse
+pyspark
+sparknlp
+scikit-learn
+matplotlib
